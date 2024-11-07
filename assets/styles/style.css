@@ -1,4 +1,9 @@
- body {
+html{
+  font-size: 20px;
+}
+
+
+body {
   background-color: rgb(218, 214, 214);
   ;
 } 
@@ -77,8 +82,8 @@
 
 
 .footer {
-  width: 100%;
   background-color: #E0E0E0;
+  width: 100%;
   min-height: 100px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
